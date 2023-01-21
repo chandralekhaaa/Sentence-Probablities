@@ -1,7 +1,7 @@
-# Sentence-Probablity
+# Sentence Probablity
 
 Project Description
-A Bigram language model was trained to predict the likelihood of occurrence of a sentence.
+<br/>A Bigram language model was trained to predict the likelihood of occurrence of a sentence.
 
 Dataset
 <br/>A modified brown corpus was used.
